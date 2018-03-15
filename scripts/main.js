@@ -38,9 +38,11 @@ myButton.onclick = function() {
 	renderName();
 }
 
+/*
 if (!localStorage.getItem('name')) {
 	setUserName();
 } 
+*/
 
 renderName();
 
